@@ -1,0 +1,213 @@
+{
+  "uid" : "2e026ef26aba7c35",
+  "name" : "Main test block.",
+  "fullName" : "PageFactoryFluentAPIHomework.tests.MainBlock.executeFinalTestPlan",
+  "historyId" : "c43043ee17d89d313a62b8d572a0ec50",
+  "time" : {
+    "start" : 1612714894446,
+    "stop" : 1612714911250,
+    "duration" : 16804
+  },
+  "description" : "Test description: Step objects and fluent methods.",
+  "descriptionHtml" : "<p>Test description: Step objects and fluent methods.</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "commenceStart",
+    "time" : {
+      "start" : 1612714890898,
+      "stop" : 1612714894300,
+      "duration" : 3402
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "Test description: Step objects and fluent methods.",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "To T-shirt page.",
+      "time" : {
+        "start" : 1612714899290,
+        "stop" : 1612714901723,
+        "duration" : 2433
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "[Quick View] Using BuyTarget PageFactoryFluentAPIHomework.data.BuyTarget@db2396ed object to increase quantity...",
+      "time" : {
+        "start" : 1612714904396,
+        "stop" : 1612714904654,
+        "duration" : 258
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "buyTarget",
+        "value" : "PageFactoryFluentAPIHomework.data.BuyTarget@db2396ed"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "[Quick View] Using BuyTarget PageFactoryFluentAPIHomework.data.BuyTarget@db2396ed object to choose size...",
+      "time" : {
+        "start" : 1612714904655,
+        "stop" : 1612714904918,
+        "duration" : 263
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "buyTarget",
+        "value" : "PageFactoryFluentAPIHomework.data.BuyTarget@db2396ed"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "[Quick View] Filling the cartItem...",
+      "time" : {
+        "start" : 1612714904919,
+        "stop" : 1612714905208,
+        "duration" : 289
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "[Quick View] Switching back to main frame...",
+      "time" : {
+        "start" : 1612714905209,
+        "stop" : 1612714905217,
+        "duration" : 8
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "[Quick View] Returning the filled cartItem...",
+      "time" : {
+        "start" : 1612714905217,
+        "stop" : 1612714905217,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "5df8fc27a1e6aeed",
+      "name" : "Public service announcement. executeFinalTestPlan Has succeeded",
+      "source" : "5df8fc27a1e6aeed.txt",
+      "type" : "text/plain",
+      "size" : 63
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 6,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "disengage",
+    "time" : {
+      "start" : 1612714911443,
+      "stop" : 1612714912255,
+      "duration" : 812
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "PageFactoryFluentAPIHomework.tests.MainBlock"
+  }, {
+    "name" : "testClass",
+    "value" : "PageFactoryFluentAPIHomework.tests.MainBlock"
+  }, {
+    "name" : "testMethod",
+    "value" : "executeFinalTestPlan"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "designPatterns_homework"
+  }, {
+    "name" : "subSuite",
+    "value" : "PageFactoryFluentAPIHomework.tests.MainBlock"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-11VL3OD"
+  }, {
+    "name" : "thread",
+    "value" : "11416@DESKTOP-11VL3OD.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "epic",
+    "value" : "Page Factory & Fluent API test case"
+  }, {
+    "name" : "feature",
+    "value" : "Main test block."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2e026ef26aba7c35.json",
+  "parameterValues" : [ ]
+}

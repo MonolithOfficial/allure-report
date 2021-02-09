@@ -1,0 +1,11 @@
+[ {
+  "uid" : "7692ab50b9db80ab",
+  "name" : "Main test block.",
+  "time" : {
+    "start" : 1612732139273,
+    "stop" : 1612732154809,
+    "duration" : 15536
+  },
+  "status" : "passed",
+  "severity" : "critical"
+} ]

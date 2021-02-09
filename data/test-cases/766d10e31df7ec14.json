@@ -1,0 +1,126 @@
+{
+  "uid" : "766d10e31df7ec14",
+  "name" : "executeFinalTestPlan",
+  "fullName" : "PageFactoryFluentAPIHomework.tests.MainBlock.executeFinalTestPlan",
+  "historyId" : "c43043ee17d89d313a62b8d572a0ec50",
+  "time" : {
+    "start" : 1612711429382,
+    "stop" : 1612711445606,
+    "duration" : 16224
+  },
+  "description" : "Some kind of DESCRIPTION",
+  "descriptionHtml" : "<p>Some kind of DESCRIPTION</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "commenceStart",
+    "time" : {
+      "start" : 1612711425753,
+      "stop" : 1612711429194,
+      "duration" : 3441
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "Some kind of DESCRIPTION",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "To T-shirt page.",
+      "time" : {
+        "start" : 1612711433788,
+        "stop" : 1612711436451,
+        "duration" : 2663
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "disengage",
+    "time" : {
+      "start" : 1612711445864,
+      "stop" : 1612711447218,
+      "duration" : 1354
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "PageFactoryFluentAPIHomework.tests.MainBlock"
+  }, {
+    "name" : "testClass",
+    "value" : "PageFactoryFluentAPIHomework.tests.MainBlock"
+  }, {
+    "name" : "testMethod",
+    "value" : "executeFinalTestPlan"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "designPatterns_homework"
+  }, {
+    "name" : "subSuite",
+    "value" : "PageFactoryFluentAPIHomework.tests.MainBlock"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-11VL3OD"
+  }, {
+    "name" : "thread",
+    "value" : "7432@DESKTOP-11VL3OD.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Main test block."
+  }, {
+    "name" : "epic",
+    "value" : "Some kind of TEST."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "766d10e31df7ec14.json",
+  "parameterValues" : [ ]
+}

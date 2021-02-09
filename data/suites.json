@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Default Suite",
+    "children" : [ {
+      "name" : "designPatterns_homework",
+      "children" : [ {
+        "name" : "PageFactoryFluentAPIHomework.tests.MainBlock",
+        "children" : [ {
+          "name" : "Main test block.",
+          "uid" : "7692ab50b9db80ab",
+          "parentUid" : "8e120de0efdeb36dca45e3840aef1720",
+          "status" : "passed",
+          "time" : {
+            "start" : 1612732139273,
+            "stop" : 1612732154809,
+            "duration" : 15536
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "8e120de0efdeb36dca45e3840aef1720"
+      } ],
+      "uid" : "3b7d0c589609b4a8ad0365beb7829d37"
+    } ],
+    "uid" : "8399274b4bb69ec8699907dd6ef7de4e"
+  } ]
+}
