@@ -1,4 +1,48 @@
 {
-  "total" : 0,
-  "items" : [ ]
+  "total" : 4,
+  "items" : [ {
+    "uid" : "b2129bfd6bbc449273d66bd8efc51d39",
+    "name" : "Stacktrace Specifics",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "c84ee5a42deacf8589ac584efd58b638",
+    "name" : "Product Defects",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "74d8168655b93abf1d0e832edc6265d7",
+    "name" : "Successful Runs",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "fae675e01c6bb8082e8b1c54aafef583",
+    "name" : "Ignored Tests",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
 }

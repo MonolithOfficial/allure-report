@@ -9,19 +9,45 @@
         "name" : "Executing Landing, T-shirt, Quick View, Checkout and Login page steps.",
         "children" : [ {
           "name" : "Main test block.",
-          "uid" : "7692ab50b9db80ab",
+          "uid" : "97a82c4da9f09c21",
           "parentUid" : "093b51511846f7fb6529a9de724e5972",
           "status" : "passed",
           "time" : {
-            "start" : 1612732139273,
-            "stop" : 1612732154809,
-            "duration" : 15536
+            "start" : 1613496992407,
+            "stop" : 1613497020041,
+            "duration" : 27634
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ ]
         } ],
         "uid" : "093b51511846f7fb6529a9de724e5972"
+      }, {
+        "name" : "executeRegistration",
+        "uid" : "709d0eedb7bcd16e",
+        "parentUid" : "44a7c447991a2838e062efa34bc427af",
+        "status" : "failed",
+        "time" : {
+          "start" : 1613497020275,
+          "stop" : 1613497026392,
+          "duration" : 6117
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "executeSkipped",
+        "uid" : "c24b4f814b0af2ce",
+        "parentUid" : "44a7c447991a2838e062efa34bc427af",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1613497026405,
+          "stop" : 1613497026406,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
       } ],
       "uid" : "44a7c447991a2838e062efa34bc427af"
     } ],

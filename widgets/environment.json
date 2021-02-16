@@ -1,1 +1,10 @@
-[ ]
+[ {
+  "values" : [ "Chrome" ],
+  "name" : "Browser"
+}, {
+  "values" : [ "88.0" ],
+  "name" : "Browser.Version"
+}, {
+  "values" : [ "http://automationpractice.com" ],
+  "name" : "URL"
+} ]

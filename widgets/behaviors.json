@@ -4,10 +4,10 @@
     "uid" : "33f4078524899bdeec6f2603e374f400",
     "name" : "Page Factory & Fluent API test case",
     "statistic" : {
-      "failed" : 0,
+      "failed" : 1,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 0,
       "unknown" : 0,
       "total" : 1
     }

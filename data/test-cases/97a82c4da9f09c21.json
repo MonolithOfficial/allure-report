@@ -1,12 +1,12 @@
 {
-  "uid" : "7692ab50b9db80ab",
+  "uid" : "97a82c4da9f09c21",
   "name" : "Main test block.",
   "fullName" : "PageFactoryFluentAPIHomework.tests.MainBlock.executeFinalTestPlan",
   "historyId" : "c43043ee17d89d313a62b8d572a0ec50",
   "time" : {
-    "start" : 1612732139273,
-    "stop" : 1612732154809,
-    "duration" : 15536
+    "start" : 1613496992407,
+    "stop" : 1613497020041,
+    "duration" : 27634
   },
   "description" : "Test description: Step objects and fluent methods.",
   "descriptionHtml" : "<p>Test description: Step objects and fluent methods.</p>\n",
@@ -16,17 +16,17 @@
   "beforeStages" : [ {
     "name" : "commenceStart",
     "time" : {
-      "start" : 1612732134711,
-      "stop" : 1612732139151,
-      "duration" : 4440
+      "start" : 1613496988907,
+      "stop" : 1613496992235,
+      "duration" : 3328
     },
     "description" : "",
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "hasContent" : false,
     "stepsCount" : 0,
+    "hasContent" : false,
     "attachmentsCount" : 0,
     "shouldDisplayMessage" : false
   } ],
@@ -36,292 +36,292 @@
     "steps" : [ {
       "name" : "[Landing] Hovering over the 'women' link...",
       "time" : {
-        "start" : 1612732143706,
-        "stop" : 1612732143903,
-        "duration" : 197
+        "start" : 1613496996976,
+        "stop" : 1613496997201,
+        "duration" : 225
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "hasContent" : false,
       "stepsCount" : 0,
+      "hasContent" : false,
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false
     }, {
       "name" : "[Landing] To t-shirt page...",
       "time" : {
-        "start" : 1612732143904,
-        "stop" : 1612732146174,
-        "duration" : 2270
+        "start" : 1613496997201,
+        "stop" : 1613497001886,
+        "duration" : 4685
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "hasContent" : false,
       "stepsCount" : 0,
+      "hasContent" : false,
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false
     }, {
       "name" : "[T-shirt] Hovering over the returned product image...",
       "time" : {
-        "start" : 1612732146198,
-        "stop" : 1612732146417,
-        "duration" : 219
+        "start" : 1613497001900,
+        "stop" : 1613497002129,
+        "duration" : 229
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "hasContent" : false,
       "stepsCount" : 0,
+      "hasContent" : false,
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false
     }, {
       "name" : "[T-shirt] Clicking the newly appeared quick view button...",
       "time" : {
-        "start" : 1612732146417,
-        "stop" : 1612732146567,
+        "start" : 1613497002129,
+        "stop" : 1613497002282,
+        "duration" : 153
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "[Quick View] Using BuyTarget PageFactoryFluentAPIHomework.data.BuyTarget@204fcc38 object to increase quantity...",
+      "time" : {
+        "start" : 1613497011071,
+        "stop" : 1613497011317,
+        "duration" : 246
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "buyTarget",
+        "value" : "PageFactoryFluentAPIHomework.data.BuyTarget@204fcc38"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "[Quick View] Using BuyTarget PageFactoryFluentAPIHomework.data.BuyTarget@204fcc38 object to choose size...",
+      "time" : {
+        "start" : 1613497011317,
+        "stop" : 1613497011467,
         "duration" : 150
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
-      "parameters" : [ ],
-      "hasContent" : false,
-      "stepsCount" : 0,
-      "attachmentsCount" : 0,
-      "shouldDisplayMessage" : false
-    }, {
-      "name" : "[Quick View] Using BuyTarget PageFactoryFluentAPIHomework.data.BuyTarget@8b5e8bce object to increase quantity...",
-      "time" : {
-        "start" : 1612732148849,
-        "stop" : 1612732149070,
-        "duration" : 221
-      },
-      "status" : "passed",
-      "steps" : [ ],
-      "attachments" : [ ],
       "parameters" : [ {
         "name" : "buyTarget",
-        "value" : "PageFactoryFluentAPIHomework.data.BuyTarget@8b5e8bce"
+        "value" : "PageFactoryFluentAPIHomework.data.BuyTarget@204fcc38"
       } ],
-      "hasContent" : true,
       "stepsCount" : 0,
-      "attachmentsCount" : 0,
-      "shouldDisplayMessage" : false
-    }, {
-      "name" : "[Quick View] Using BuyTarget PageFactoryFluentAPIHomework.data.BuyTarget@8b5e8bce object to choose size...",
-      "time" : {
-        "start" : 1612732149071,
-        "stop" : 1612732149230,
-        "duration" : 159
-      },
-      "status" : "passed",
-      "steps" : [ ],
-      "attachments" : [ ],
-      "parameters" : [ {
-        "name" : "buyTarget",
-        "value" : "PageFactoryFluentAPIHomework.data.BuyTarget@8b5e8bce"
-      } ],
       "hasContent" : true,
-      "stepsCount" : 0,
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false
     }, {
       "name" : "[Quick View] Filling the cartItem...",
       "time" : {
-        "start" : 1612732149230,
-        "stop" : 1612732149578,
-        "duration" : 348
+        "start" : 1613497011468,
+        "stop" : 1613497011715,
+        "duration" : 247
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "hasContent" : false,
       "stepsCount" : 0,
+      "hasContent" : false,
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false
     }, {
       "name" : "[Quick View] Switching back to main frame...",
       "time" : {
-        "start" : 1612732149579,
-        "stop" : 1612732149609,
-        "duration" : 30
+        "start" : 1613497011715,
+        "stop" : 1613497011725,
+        "duration" : 10
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "hasContent" : false,
       "stepsCount" : 0,
+      "hasContent" : false,
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false
     }, {
       "name" : "[Quick View] Returning the filled cartItem...",
       "time" : {
-        "start" : 1612732149610,
-        "stop" : 1612732149610,
+        "start" : 1613497011726,
+        "stop" : 1613497011726,
         "duration" : 0
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "hasContent" : false,
       "stepsCount" : 0,
+      "hasContent" : false,
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false
     }, {
       "name" : "[Layer Cart] Proceeding to checkout...",
       "time" : {
-        "start" : 1612732149639,
-        "stop" : 1612732152319,
-        "duration" : 2680
+        "start" : 1613497011735,
+        "stop" : 1613497016853,
+        "duration" : 5118
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "hasContent" : false,
       "stepsCount" : 0,
+      "hasContent" : false,
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false
     }, {
       "name" : "[Checkout] Scrolling to main table...",
       "time" : {
-        "start" : 1612732152353,
-        "stop" : 1612732152437,
-        "duration" : 84
+        "start" : 1613497016876,
+        "stop" : 1613497016951,
+        "duration" : 75
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "hasContent" : false,
       "stepsCount" : 0,
+      "hasContent" : false,
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false
     }, {
       "name" : "[Checkout] Filling an empty cartItem...",
       "time" : {
-        "start" : 1612732152437,
-        "stop" : 1612732152558,
-        "duration" : 121
+        "start" : 1613497016951,
+        "stop" : 1613497017057,
+        "duration" : 106
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "hasContent" : false,
       "stepsCount" : 0,
+      "hasContent" : false,
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false
     }, {
       "name" : "[Checkout] Proceeding to checkout...",
       "time" : {
-        "start" : 1612732152558,
-        "stop" : 1612732154338,
-        "duration" : 1780
+        "start" : 1613497017057,
+        "stop" : 1613497019599,
+        "duration" : 2542
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "hasContent" : false,
       "stepsCount" : 0,
+      "hasContent" : false,
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false
     }, {
       "name" : "[Checkout] Returning the filled cartItem...",
       "time" : {
-        "start" : 1612732154338,
-        "stop" : 1612732154339,
-        "duration" : 1
+        "start" : 1613497019600,
+        "stop" : 1613497019600,
+        "duration" : 0
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "hasContent" : false,
       "stepsCount" : 0,
+      "hasContent" : false,
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false
     }, {
       "name" : "[Login] Hovering over the login form...",
       "time" : {
-        "start" : 1612732154373,
-        "stop" : 1612732154398,
-        "duration" : 25
+        "start" : 1613497019624,
+        "stop" : 1613497019647,
+        "duration" : 23
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "hasContent" : false,
       "stepsCount" : 0,
+      "hasContent" : false,
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false
     }, {
       "name" : "[Login] Filling the email field...",
       "time" : {
-        "start" : 1612732154400,
-        "stop" : 1612732154602,
-        "duration" : 202
+        "start" : 1613497019648,
+        "stop" : 1613497019865,
+        "duration" : 217
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "hasContent" : false,
       "stepsCount" : 0,
+      "hasContent" : false,
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false
     }, {
       "name" : "[Login] Clicking the account creation button, to signup page...",
       "time" : {
-        "start" : 1612732154603,
-        "stop" : 1612732154748,
-        "duration" : 145
+        "start" : 1613497019866,
+        "stop" : 1613497019978,
+        "duration" : 112
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "hasContent" : false,
       "stepsCount" : 0,
+      "hasContent" : false,
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false
     } ],
     "attachments" : [ {
-      "uid" : "fd2219c670385ab3",
-      "name" : "Public service announcement. executeFinalTestPlan Has succeeded",
-      "source" : "fd2219c670385ab3.txt",
+      "uid" : "a408ab201137c46f",
+      "name" : "Public service announcement. executeFinalTestPlan has succeeded.",
+      "source" : "a408ab201137c46f.txt",
       "type" : "text/plain",
-      "size" : 63
+      "size" : 64
     } ],
     "parameters" : [ ],
-    "hasContent" : true,
     "stepsCount" : 17,
+    "hasContent" : true,
     "attachmentsCount" : 1,
     "shouldDisplayMessage" : false
   },
   "afterStages" : [ {
     "name" : "disengage",
     "time" : {
-      "start" : 1612732155063,
-      "stop" : 1612732155902,
-      "duration" : 839
+      "start" : 1613497026413,
+      "stop" : 1613497027265,
+      "duration" : 852
     },
     "description" : "",
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "hasContent" : false,
     "stepsCount" : 0,
+    "hasContent" : false,
     "attachmentsCount" : 0,
     "shouldDisplayMessage" : false
   } ],
@@ -348,7 +348,7 @@
     "value" : "DESKTOP-11VL3OD"
   }, {
     "name" : "thread",
-    "value" : "5232@DESKTOP-11VL3OD.main(1)"
+    "value" : "11288@DESKTOP-11VL3OD.main(1)"
   }, {
     "name" : "framework",
     "value" : "testng"
@@ -359,11 +359,11 @@
     "name" : "story",
     "value" : "Executing Landing, T-shirt, Quick View, Checkout and Login page steps."
   }, {
-    "name" : "epic",
-    "value" : "Page Factory & Fluent API test case"
-  }, {
     "name" : "feature",
     "value" : "Main test block."
+  }, {
+    "name" : "epic",
+    "value" : "Page Factory & Fluent API test case"
   }, {
     "name" : "severity",
     "value" : "critical"
@@ -377,50 +377,14 @@
   "retry" : false,
   "extra" : {
     "severity" : "critical",
-    "retries" : [ {
-      "uid" : "3fa9982c389137eb",
-      "status" : "passed",
-      "time" : {
-        "start" : 1612715182746,
-        "stop" : 1612715204396,
-        "duration" : 21650
-      }
-    }, {
-      "uid" : "2e026ef26aba7c35",
-      "status" : "passed",
-      "time" : {
-        "start" : 1612714894446,
-        "stop" : 1612714911250,
-        "duration" : 16804
-      }
-    }, {
-      "uid" : "ff6aad661ac45e06",
-      "status" : "passed",
-      "time" : {
-        "start" : 1612713209748,
-        "stop" : 1612713228677,
-        "duration" : 18929
-      }
-    }, {
-      "uid" : "2fe628798b1a6755",
-      "status" : "passed",
-      "time" : {
-        "start" : 1612711789589,
-        "stop" : 1612711813232,
-        "duration" : 23643
-      }
-    }, {
-      "uid" : "766d10e31df7ec14",
-      "status" : "passed",
-      "time" : {
-        "start" : 1612711429382,
-        "stop" : 1612711445606,
-        "duration" : 16224
-      }
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Successful Runs",
+      "matchedStatuses" : [ "passed" ],
+      "flaky" : false
     } ],
-    "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "7692ab50b9db80ab.json",
+  "source" : "97a82c4da9f09c21.json",
   "parameterValues" : [ ]
 }

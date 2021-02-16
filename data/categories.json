@@ -1,5 +1,88 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
   "name" : "categories",
-  "children" : [ ]
+  "children" : [ {
+    "name" : "Successful Runs",
+    "children" : [ {
+      "children" : [ {
+        "name" : "Main test block.",
+        "uid" : "97a82c4da9f09c21",
+        "parentUid" : "18fa4fe6e1797904cb2674b6db2fb657",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613496992407,
+          "stop" : 1613497020041,
+          "duration" : 27634
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "18fa4fe6e1797904cb2674b6db2fb657"
+    } ],
+    "uid" : "74d8168655b93abf1d0e832edc6265d7"
+  }, {
+    "name" : "Stacktrace Specifics",
+    "children" : [ {
+      "name" : "Failed deliberately. expected [Reality] but found [Expectation]",
+      "children" : [ {
+        "name" : "executeRegistration",
+        "uid" : "709d0eedb7bcd16e",
+        "parentUid" : "9a1b9f59adac4298681aed67bfb59b8f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1613497020275,
+          "stop" : 1613497026392,
+          "duration" : 6117
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9a1b9f59adac4298681aed67bfb59b8f"
+    } ],
+    "uid" : "b2129bfd6bbc449273d66bd8efc51d39"
+  }, {
+    "name" : "Product Defects",
+    "children" : [ {
+      "name" : "Failed deliberately. expected [Reality] but found [Expectation]",
+      "children" : [ {
+        "name" : "executeRegistration",
+        "uid" : "709d0eedb7bcd16e",
+        "parentUid" : "62cf1afa6a3e473418fbd34a56ff09c8",
+        "status" : "failed",
+        "time" : {
+          "start" : 1613497020275,
+          "stop" : 1613497026392,
+          "duration" : 6117
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "62cf1afa6a3e473418fbd34a56ff09c8"
+    } ],
+    "uid" : "c84ee5a42deacf8589ac584efd58b638"
+  }, {
+    "name" : "Ignored Tests",
+    "children" : [ {
+      "name" : "Deliberately skipped.",
+      "children" : [ {
+        "name" : "executeSkipped",
+        "uid" : "c24b4f814b0af2ce",
+        "parentUid" : "cda5cbda72a4afec01f69ade0a37129b",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1613497026405,
+          "stop" : 1613497026406,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cda5cbda72a4afec01f69ade0a37129b"
+    } ],
+    "uid" : "fae675e01c6bb8082e8b1c54aafef583"
+  } ]
 }

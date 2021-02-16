@@ -1,4 +1,24 @@
 {
+  "80d3f6b6f8cde0a6e636accec4854b32" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "709d0eedb7bcd16e",
+      "status" : "failed",
+      "statusDetails" : "Failed deliberately. expected [Reality] but found [Expectation]",
+      "time" : {
+        "start" : 1613497020275,
+        "stop" : 1613497026392,
+        "duration" : 6117
+      }
+    } ]
+  },
   "c43043ee17d89d313a62b8d572a0ec50" : {
     "statistic" : {
       "failed" : 0,
@@ -9,12 +29,32 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "7692ab50b9db80ab",
+      "uid" : "97a82c4da9f09c21",
       "status" : "passed",
       "time" : {
-        "start" : 1612732139273,
-        "stop" : 1612732154809,
-        "duration" : 15536
+        "start" : 1613496992407,
+        "stop" : 1613497020041,
+        "duration" : 27634
+      }
+    } ]
+  },
+  "f53c09f02e95f08a49262f2d6c23dc68" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c24b4f814b0af2ce",
+      "status" : "skipped",
+      "statusDetails" : "Deliberately skipped.",
+      "time" : {
+        "start" : 1613497026405,
+        "stop" : 1613497026406,
+        "duration" : 1
       }
     } ]
   }

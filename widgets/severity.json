@@ -1,11 +1,31 @@
 [ {
-  "uid" : "7692ab50b9db80ab",
+  "uid" : "97a82c4da9f09c21",
   "name" : "Main test block.",
   "time" : {
-    "start" : 1612732139273,
-    "stop" : 1612732154809,
-    "duration" : 15536
+    "start" : 1613496992407,
+    "stop" : 1613497020041,
+    "duration" : 27634
   },
   "status" : "passed",
   "severity" : "critical"
+}, {
+  "uid" : "c24b4f814b0af2ce",
+  "name" : "executeSkipped",
+  "time" : {
+    "start" : 1613497026405,
+    "stop" : 1613497026406,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "709d0eedb7bcd16e",
+  "name" : "executeRegistration",
+  "time" : {
+    "start" : 1613497020275,
+    "stop" : 1613497026392,
+    "duration" : 6117
+  },
+  "status" : "failed",
+  "severity" : "normal"
 } ]
